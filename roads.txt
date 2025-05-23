@@ -1,0 +1,11 @@
+Index  Road Connection          Budget (RWF)
+-----  ---------------------    ------------
+1     Kigali-Muhanga           28.60          
+2     Kigali-Musanze           28.60          
+3     Kigali-Nyagatare         70.84          
+4     Muhanga-Huye             56.70          
+5     Musanze-Rubavu           33.70          
+6     Huye-Rusizi              80.96          
+7     Muhanga-Rusizi           117.50         
+8     Musanze-Nyagatare        96.14          
+9     Muhanga-Musanze          66.30          
